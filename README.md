@@ -1,11 +1,12 @@
-Employee Attrition Prediction with Deep Learning
+# Employee Attrition Prediction with Deep Learning
+
 This project implements a neural network to predict employee attrition and recommend suitable departments using a dataset containing various employee-related features. The model is built with TensorFlow's Keras library and trained on preprocessed data to classify employees into different attrition and department categories.
 
-Project Overview
+## Project Overview
 Goals
 Predict whether employees are likely to leave the company.
 Recommend the best department for each employee based on their features.
-Workflow
+## Workflow
 1. Data Preparation
 Dataset: The dataset attrition.csv is loaded and explored for relevant features and target variables.
 Features: Columns such as Age, DistanceFromHome, HourlyRate, YearsWithCurrManager, etc., are used as inputs.
